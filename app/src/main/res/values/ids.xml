@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_sign_in" type="id" />
+    <item name="btn_sign_out" type="id" />
+    <item name="btn_revoke_access" type="id" />
+    <item name="llProfile" type="id" />
+    <item name="imgProfilePic" type="id" />
+    <item name="txtName" type="id" />
+    <item name="txtEmail" type="id" />
+</resources>

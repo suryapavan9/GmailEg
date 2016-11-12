@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080180464511",
+    "project_id": "firebase-gmaileg"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080180464511:android:669f5a5bcc67b685",
+        "android_client_info": {
+          "package_name": "com.example.android.gmaileg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080180464511-9019mdv5b61b950mmk5r2i1buhme35r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.gmaileg",
+            "certificate_hash": "6B7E73A52BEAA295E266F807B9DED0419B5806EA"
+          }
+        },
+        {
+          "client_id": "1080180464511-mt0gdrkn5f2tnvmfsbiurn961t843rv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuQhoTF1C5Azs-riB34I9dIiY7QHz29_8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
